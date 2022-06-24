@@ -2,7 +2,7 @@
 Estimate Kilauea's Halemaumau magma reservoir pressure change from 2018 to 2020, using summit deformation and magma surge data.
 
 Scripts under the directory "projects" produce figures in the following publication:
-Segall, P., Anderson, K. R., Wang T. A. Could Kilauea’s 2020 post caldera-forming eruption have been anticipated?: Geophysical Research Letters (2022).
+Segall, P., Anderson, K. R., Wang T. A. Could Kilauea’s 2020 post caldera-forming eruption have been anticipated? : Geophysical Research Letters (2022).
 
 ## Scripts under /projects
 ### 1. surges.m
